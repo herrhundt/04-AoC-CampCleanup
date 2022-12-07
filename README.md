@@ -25,5 +25,5 @@ This program solves the 4th puzzle of <a href="https://adventofcode.com/2022">Ad
 <b>Interesting methods:</b> 
 <br>
 <ul>
-  <li> split-Method <a href="https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#split(java.lang.String)" see docs</a>
+  <li> split-Method <a href="https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#split(java.lang.String)"> see docs</a>
 </ul>
